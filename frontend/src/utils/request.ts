@@ -1,1 +1,0 @@
-export const BASE_URL = 'https://sds3-valmir.herokuapp.com';
